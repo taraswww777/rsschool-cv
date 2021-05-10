@@ -36,8 +36,8 @@ Last year I start to find new ways to grow as a developer and chose to android d
 4. Full Stack Developer - SITE SUPPORT CENTER  Nov, 2015 - May, 2016
 
 
-6. Education
+## 6. Education
 2015 - Amur State University - Bachelor of Business Informatics
 
-7. English
+## 7. English
 Elementary English - A2
