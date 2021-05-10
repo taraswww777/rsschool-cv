@@ -37,7 +37,7 @@ Last year I start to find new ways to grow as a developer and chose to android d
 
 
 6. Education
-2015 - Amure State University - Bachelor of Business Informatics
+2015 - Amur State University - Bachelor of Business Informatics
 
 7. English
 Elementary English - A2
